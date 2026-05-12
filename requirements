@@ -1,3 +1,5 @@
 streamlit
-pypdf
-cryptography
+PyPDF2
+faiss-cpu
+openai
+tiktoken
